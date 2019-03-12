@@ -1,6 +1,6 @@
 name: transparent_image
 description: A transparent image in Dart code, represented as a Uint8List.
-version: 0.1.0
+version: 1.0.0
 homepage: https://github.com/brianegan/transparent_image
 author: Brian Egan <brian@brianegan.com>
 
