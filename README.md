@@ -18,6 +18,12 @@ Displays the transparent image.
 Image.memory(kTransparentImage);
 ```
 
+### ImageProvider
+
+```dart
+MemoryImage(kTransparentImage);
+```
+
 ### FadeInImage Widget
 
 A more useful example, and the reason I originally extracted this from the
