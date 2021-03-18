@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.0
+
+- Maximum Stability Unlocked.
+
 ## 2.0.0-nullsafety.0
 
 - Transparent image is even stronger. It has achieved null safety. Thanks @renefloor!!!
