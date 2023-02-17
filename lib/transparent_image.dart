@@ -67,4 +67,7 @@ final Uint8List kTransparentImage = new Uint8List.fromList(<int>[
   0x4E,
   0x44,
   0xAE,
+  0x42,
+  0x60,
+  0x82,
 ]);

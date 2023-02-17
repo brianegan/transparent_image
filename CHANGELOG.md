@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.1
+
+- Transparent image is stronger than ever, with END bytes.
+
 ## 2.0.0
 
 - Maximum Stability Unlocked.
