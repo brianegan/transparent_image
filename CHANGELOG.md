@@ -2,7 +2,7 @@
 
 ## 2.0.1
 
-- Transparent image is stronger than ever, with END bytes.
+- Transparent image is stronger than ever, with 3 more ending bytes.
 
 ## 2.0.0
 
